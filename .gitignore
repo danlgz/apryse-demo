@@ -33,3 +33,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# webstorm
+.idea
+
+# bundle libraries
+public/pspdfkit-lib
+public/webviewer
